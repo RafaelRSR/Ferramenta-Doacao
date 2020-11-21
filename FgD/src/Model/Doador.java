@@ -4,7 +4,7 @@ import java.util.*;
 import DAO.Doador.DAO;
 import java.sql.SQLException;
 
-public class Doador extends Pessoa {
+public class Doador extends Pessoa {Vai toma no cu ezequiel
 
     // Atributos
     private double valordoado;
