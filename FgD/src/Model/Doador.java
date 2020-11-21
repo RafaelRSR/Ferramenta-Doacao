@@ -10,6 +10,7 @@ public class Doador extends Pessoa {
     private double valordoado;
     private String recibos;
     private final DoadorDAO dao;
+    //noooooooooooooooojo
 
     public Doador() {
         this.dao = new DoadorDAO(); // inicializado não importa em qual construtor
