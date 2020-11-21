@@ -12,6 +12,7 @@ public class Doador extends Pessoa {Vai toma no cu ezequiel
     private final DoadorDAO dao;
     //noooooooooooooooojo
     //nojooooooooo 2.0
+    //noojojojjojojo 3.0
 
     public Doador() {
         this.dao = new DoadorDAO(); // inicializado não importa em qual construtor
