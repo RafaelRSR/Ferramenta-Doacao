@@ -4,7 +4,7 @@ import java.util.*;
 import DAO.Doador.DAO;
 import java.sql.SQLException;
 
-public class Doador extends Pessoa {Vai toma no cu ezequiel
+public class Doador extends Pessoa {
 
     // Atributos
     private double valordoado;
@@ -12,7 +12,7 @@ public class Doador extends Pessoa {Vai toma no cu ezequiel
     private final DoadorDAO dao;
     //noooooooooooooooojo
     //nojooooooooo 2.0
-
+    //veinfeinfiasifn
     public Doador() {
         this.dao = new DoadorDAO(); // inicializado não importa em qual construtor
     }
